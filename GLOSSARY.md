@@ -45,6 +45,13 @@
 | **超聚焦** | ADHD 在高度兴趣驱动的任务上的极端专注状态 | [psychology/cognitive-model.md](psychology/cognitive-model.md) |
 | **DMN 泛滥** | 默认模式网络过度活跃——脑子在跑但手不动 | [psychology/cognitive-model.md](psychology/cognitive-model.md) |
 | **辰辰自刑（认知对应）** | 自我检查→发现更多可能性→再检查→瘫痪 | [psychology/cognitive-model.md](psychology/cognitive-model.md) |
+| **低多巴胺早晨** | 醒来第一小时不看手机/社交媒体，让多巴胺系统稳定启动 | [psychology/health.md](psychology/health.md) |
+| **运动后专注窗口** | 运动后 30-120 分钟多巴胺/去甲肾上腺素最高——深度工作黄金期 | [psychology/health.md](psychology/health.md) |
+| **能量审计** | 按"活动让你更有精力还是更累"来分类任务，而非按产出量 | [psychology/cognitive-model.md](psychology/cognitive-model.md) |
+| **身体双倍（Body Doubling）** | 和另一个在工作的人同处一个空间——镜像神经元提供外部执行参照 | [psychology/cognitive-model.md](psychology/cognitive-model.md) |
+| **两分钟规则** | 面对不想启动的任务，"只做两分钟"绕过启动阻力 | [psychology/cognitive-model.md](psychology/cognitive-model.md) |
+| **INTP 执行力公式** | 执行力来自路径清晰。不是逼自己努力——是把模糊目标分解为 Ti 能接受的具体逻辑链 | [psychology/cognitive-model.md](psychology/cognitive-model.md) |
+| **昼夜节律锚定** | 用三个固定时间点（起床/运动/第一餐）重置生物钟，不依赖"早睡" | [psychology/health.md](psychology/health.md) |
 
 ## 数学
 
